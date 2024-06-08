@@ -1,0 +1,19 @@
+{
+  "name": "ejercicio-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnoldm94/node_js.git"
+  },
+  "author": "Arnold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arnoldm94/node_js/issues"
+  },
+  "homepage": "https://github.com/arnoldm94/node_js#readme",
+  "description": ""
+}
