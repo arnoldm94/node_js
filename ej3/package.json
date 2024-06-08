@@ -1,0 +1,18 @@
+{
+  "name": "ejercicio-3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "logplease": "^1.2.15"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
